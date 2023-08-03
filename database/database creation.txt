@@ -1,0 +1,3 @@
+create database foodies 
+after creating import .sql file
+email send nahi honar atta tujha laptop madhe
