@@ -8,6 +8,7 @@ Discounts: The platform provides the option for customers to avail of discounts 
 Bill Access: Customers can access their bills through the website, providing transparency and easy reference for their orders.
 Order Tracking: Users receive email notifications regarding the status of their orders, keeping them informed throughout the process.
 Repeat or Cancel Orders: Customers can easily repeat their previous orders or cancel orders when needed, offering flexibility.
+
 Admin (Foodies Admin) Platform Features:
 
 Menu Management: Hotel and restaurant owners can efficiently manage their menu lists, including adding and modifying items.
